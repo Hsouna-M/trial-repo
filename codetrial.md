@@ -17,5 +17,8 @@ this is a simple line
 2. this is just a code example 
 3. what is this 
 
+now this is a image <br> i hope git hub gets it
+![image](images/image.png)
+
 
     
