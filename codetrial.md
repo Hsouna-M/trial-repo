@@ -22,5 +22,7 @@ now this is a image <br> i hope git hub gets it
 
 [this is a link to the readme.md](./README.md)
 
-
+                '''python
+                so the syntaw 
+                '''
     
