@@ -20,5 +20,7 @@ this is a simple line
 now this is a image <br> i hope git hub gets it
 ![image](images/image.png)
 
+[this is a link to the readme.md](./README.md)
+
 
     
